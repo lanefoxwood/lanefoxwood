@@ -1,8 +1,13 @@
-<h1>Lane <b>Foxwood</b></h1>
+<h1>Lane Foxwood</h1>
 
-- 👋 Hi, I’m @lanefoxwood
-- 👀 I’m interested in front end web development
-- 🌱 I’m currently learning from the Web Developer Bootcamp in 2022
+- 👋 
+- 👀 I’m interested in front end web development, working with non-profits and traveling with my UI/UX Designer extraordinaire, Rachel Foxwood!
+
+
+
+- 🌱 I'm currently earning a Javascript, Algorithms and Data Structures certification from freeCodeCamp
+- 🌱 I've recently earned my Responsive Web Desgin Certification from freeCodeCamp
+- 🌱 I’ve recently earned my Certification from the Web Developer Bootcamp in 2022 by Colt Steele on Udemy
 - 💞️ I’m looking to collaborate on open source software
 - 📫 How to reach me ... @lanefoxwood on twitter
 
