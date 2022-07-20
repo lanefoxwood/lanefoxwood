@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I'm currently earning a Javascript, Algorithms and Data Structures certification from freeCodeCamp
+- 🌱 I've recently earned my Javascript, Algorithms and Data Structures Certification from freeCodeCamp
 - 🌱 I've recently earned my Responsive Web Desgin Certification from freeCodeCamp
 - 🌱 I’ve recently earned my Certification from the Web Developer Bootcamp in 2022 by Colt Steele on Udemy
 - 💞️ I’m looking to collaborate on open source software
